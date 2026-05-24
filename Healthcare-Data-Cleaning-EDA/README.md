@@ -6,14 +6,14 @@ This project focuses on analyzing a healthcare dataset containing patient inform
 📊 Dataset Information
 
 The dataset includes the following features:
-Age
-Sex
-Blood Pressure (BP)
-Cholesterol
-Allergy
-Na_to_K ratio
-Medication duration
-Drug (Target variable)
+Age  
+Sex  
+Blood Pressure (BP)   
+Cholesterol  
+Allergy  
+Na_to_K ratio  
+Medication duration  
+Drug (Target variable)  
 
 🧹 Data Cleaning Steps
 Handled missing values in the Allergy column by replacing them with "Unknown"
