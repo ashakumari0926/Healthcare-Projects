@@ -41,10 +41,10 @@ Majority of patients fall within specific age groups
 Blood pressure levels vary across patient population  
 Some drugs show slight gender-based variation  
 
-🛠️ Technologies Used
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+🛠️ Technologies Used:  
+Python  
+Pandas  
+NumPy  
+Matplotlib  
+Seaborn  
+Jupyter Notebook  
