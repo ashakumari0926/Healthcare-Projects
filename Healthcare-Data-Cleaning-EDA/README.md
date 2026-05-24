@@ -16,30 +16,30 @@ Medication duration
 Drug (Target variable)  
 
 🧹 Data Cleaning Steps
-Handled missing values in the Allergy column by replacing them with "Unknown"
-Verified and ensured no null values remain
-Checked and confirmed dataset consistency
+Handled missing values in the Allergy column by replacing them with "Unknown"  
+Verified and ensured no null values remain  
+Checked and confirmed dataset consistency  
 
 📈 Exploratory Data Analysis (EDA)
 
-The following analyses were performed:
-Total number of patients
-Age distribution of patients
-Blood pressure category distribution
-Most commonly prescribed drugs
-Gender-wise drug distribution
+The following analyses were performed:  
+Total number of patients  
+Age distribution of patients  
+Blood pressure category distribution  
+Most commonly prescribed drugs  
+Gender-wise drug distribution  
 
-📊 Key Visualizations
-Drug distribution bar chart
-Age distribution histogram
-Blood pressure distribution chart
-Gender vs Drug analysis
+📊 Key Visualizations  
+Drug distribution bar chart  
+Age distribution histogram  
+Blood pressure distribution chart  
+Gender vs Drug analysis  
 
 🔍 Key Insights
-Certain drugs are prescribed more frequently than others
-Majority of patients fall within specific age groups
-Blood pressure levels vary across patient population
-Some drugs show slight gender-based variation
+Certain drugs are prescribed more frequently than others  
+Majority of patients fall within specific age groups  
+Blood pressure levels vary across patient population  
+Some drugs show slight gender-based variation  
 
 🛠️ Technologies Used
 Python
